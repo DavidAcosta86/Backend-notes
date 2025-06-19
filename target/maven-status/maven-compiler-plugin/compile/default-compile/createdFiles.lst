@@ -1,0 +1,17 @@
+com/notesapp/backend/entity/Category.class
+com/notesapp/backend/config/WebConfig.class
+com/notesapp/backend/mapper/NoteMapper.class
+com/notesapp/backend/controller/NoteController.class
+com/notesapp/backend/service/CategoryService.class
+com/notesapp/backend/BackendApplication.class
+com/notesapp/backend/dto/CategoryDTO.class
+com/notesapp/backend/mapper/CategoryMapper.class
+com/notesapp/backend/repository/CategoryRepository.class
+com/notesapp/backend/controller/CategoryController.class
+com/notesapp/backend/service/CategoryServiceImplementation.class
+com/notesapp/backend/dto/NoteDTO.class
+com/notesapp/backend/config/WebConfig$1.class
+com/notesapp/backend/service/NoteServiceImplementation.class
+com/notesapp/backend/entity/Note.class
+com/notesapp/backend/service/NoteService.class
+com/notesapp/backend/repository/NoteRepository.class

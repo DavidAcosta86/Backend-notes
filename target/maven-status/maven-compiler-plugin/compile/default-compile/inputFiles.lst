@@ -1,0 +1,16 @@
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/BackendApplication.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/config/WebConfig.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/controller/CategoryController.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/controller/NoteController.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/dto/CategoryDTO.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/dto/NoteDTO.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/entity/Category.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/entity/Note.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/mapper/CategoryMapper.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/mapper/NoteMapper.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/repository/CategoryRepository.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/repository/NoteRepository.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/service/CategoryService.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/service/CategoryServiceImplementation.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/service/NoteService.java
+/home/david/projects/deploy/Backend-notes/src/main/java/com/notesapp/backend/service/NoteServiceImplementation.java
