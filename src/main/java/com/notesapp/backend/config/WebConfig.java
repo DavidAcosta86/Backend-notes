@@ -15,6 +15,8 @@ public class WebConfig {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
                         .allowedOrigins("http://localhost:3000") // Adjust this to your frontend URL
+                        .allowedOrigins("https://frontend-notes.vercel.app")
+
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "PATCH");
             }
         };
