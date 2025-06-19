@@ -7,5 +7,6 @@ RUN ./mvnw clean package -DskipTests
 # Etapa runtime
 FROM eclipse-temurin:17-jre-alpine
 WORKDIR /app
-COPY --from=build /app/target/tu-app.jar app.jar
+COPY --from=build /app/target/app.jar app.jar
+
 CMD ["java", "-jar", "app.jar"]
